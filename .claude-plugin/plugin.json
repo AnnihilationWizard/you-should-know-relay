@@ -1,0 +1,6 @@
+{
+  "name": "you-should-know-relay",
+  "version": "0.1.0",
+  "description": "Forward each you-should-know heads-up to Claude, so you no longer paste it in yourself",
+  "types": "./types/index.d.ts"
+}
