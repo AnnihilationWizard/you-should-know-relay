@@ -1,0 +1,9 @@
+{
+  "name": "you-should-know-relay",
+  "description": "A Claude Code mod that forwards each you-should-know heads-up to Claude",
+  "owner": {
+    "name": "AnnihilationWizard",
+    "url": "https://github.com/AnnihilationWizard"
+  },
+  "plugins": [{ "name": "you-should-know-relay", "source": "./" }]
+}

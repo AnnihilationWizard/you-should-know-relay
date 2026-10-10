@@ -1,6 +1,14 @@
 {
   "name": "you-should-know-relay",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Forward each you-should-know heads-up to Claude, so you no longer paste it in yourself",
+  "author": {
+    "name": "AnnihilationWizard",
+    "url": "https://github.com/AnnihilationWizard"
+  },
+  "homepage": "https://github.com/AnnihilationWizard/you-should-know-relay",
+  "repository": "https://github.com/AnnihilationWizard/you-should-know-relay",
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "you-should-know", "context"],
   "types": "./types/index.d.ts"
 }
