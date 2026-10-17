@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased]
+
+- README: note that the Code tab of the Claude desktop app does not show you-should-know heads-ups, so the mod forwards nothing there.
+
 ## [1.0.0] - 2026-10-10
 
 Initial release of you-should-know-relay by AnnihilationWizard.

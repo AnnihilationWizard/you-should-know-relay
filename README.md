@@ -97,6 +97,7 @@ There is nothing to configure. Keep working, and each new heads-up reaches Claud
 
 - Every heads-up is forwarded, including ones you would mark as not relevant.
 - The mod depends on the built-in you-should-know plugin. Where Claude Code does not run that plugin, the mod has nothing to forward.
+- The Code tab of the Claude desktop app does not show you-should-know heads-ups as of Claude Code 2.1.302, so the mod loads there but forwards nothing and shows no toast. Use it in a terminal session (`claude`). If the desktop app starts showing heads-ups, forwarding works there without any change to the mod.
 - `/plugin install` is available in terminal sessions only.
 
 ## Development
